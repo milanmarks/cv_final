@@ -6,7 +6,7 @@ This is a repository for my computer vision final project, which construct a hyb
 
 ![resnet head](/img/resnet head.png)
 
-![Hybrid Vit](/img/ViT.jpg)
+![Hybrid Vit](/img/ViT.png)
 
 - with same number of parameters: [resnet40](https://drive.google.com/file/d/1WkMeI3LCDfhL9k1OwpGd28KQqmBT-SBi/view?usp=sharing)
 
