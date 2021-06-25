@@ -3,7 +3,7 @@ This is a repository for my computer vision final project, which construct a hyb
 
 The project is done on google colab. click the link to open the notebook.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/milanmarks/cv_final/edit/master/cv_final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milanmarks/cv_final/master/master/cv_final.ipynb)
 ## models in the experiment
 - Baseline: [HybridViT_v2](https://drive.google.com/file/d/1-7kCyc2bYorM_I9S0Cdss025HEmpqeiB/view?usp=sharing)
 
