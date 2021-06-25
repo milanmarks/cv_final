@@ -4,9 +4,9 @@ This is a repository for my computer vision final project, which construct a hyb
 ## models in the experiment
 - Baseline: [HybridViT_v2](https://drive.google.com/file/d/1-7kCyc2bYorM_I9S0Cdss025HEmpqeiB/view?usp=sharing)
 
-![resnet head](img/resnet head.png)
+![resnet head](/img/resnet head.png)
 
-![Hybrid Vit](img/ViT.jpg)
+![Hybrid Vit](/img/ViT.jpg)
 
 - with same number of parameters: [resnet40](https://drive.google.com/file/d/1WkMeI3LCDfhL9k1OwpGd28KQqmBT-SBi/view?usp=sharing)
 
